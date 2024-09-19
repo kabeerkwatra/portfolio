@@ -31,7 +31,7 @@ export function Page() {
       title: "Foodie",
       description: "A food delivery application showcasing modern web development techniques.",
       technologies: ["Next.js", "React.js", "TypeScript", "Tailwind CSS"],
-      link: "https://foodie-gules-five.vercel.app/",
+      link: "https://foodie.kabeerkwatra.com",
     },
   ]
 
