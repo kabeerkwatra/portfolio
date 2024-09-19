@@ -159,7 +159,7 @@ export function Page() {
           <section ref={skillsRef} className="mb-12 text-center">
             <h2 className="text-3xl font-bold mb-4">Skills</h2>
             <div className="flex flex-wrap justify-center">
-              {skills.map((skill, index) => (
+              {skills.map((skill) => (
                 <Badge key={skill} text={skill} />
               ))}
             </div>
